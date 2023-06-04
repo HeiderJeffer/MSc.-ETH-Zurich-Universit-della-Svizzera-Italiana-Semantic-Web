@@ -4,15 +4,15 @@
 
 # Master in Artificial Intelligence
 
-# Topic: Semantic Web
+# Topic: Semantic Web \[2014\]
 
 By Heider Jeffer
 
-Instructor: Prof. Mehdi Jazayeri
+Instructor: Mehdi Jazayeri
+
+Assistant: Sasa Nesic
 
 speaker: Prof. Grigoris Anoniou
-
-14 December - 20 December 2014
 
 # Summary
 
