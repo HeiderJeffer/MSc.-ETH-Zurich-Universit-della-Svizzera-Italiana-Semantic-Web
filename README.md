@@ -1,10 +1,7 @@
-# UNIVERSITÀ DELLA SVIZZERA ITALIANA - ETH ZURICH
+### ETH Zürich - UNIVERSITÀ DELLA SVIZZERA ITALIANA
+FACULTY OF COMPUTER SCIENCE -  Master in Artificial Intelligence
 
-# FACULTY OF COMPUTER SCIENCE
-
-# Master in Artificial Intelligence
-
-# Topic: Semantic Web \[2014\]
+### Topic: Semantic Web \[2014\]
 
 By Heider Jeffer
 
@@ -14,7 +11,7 @@ Assistant: Sasa Nesic
 
 speaker: Prof. Grigoris Anoniou
 
-## Introduction: Navigating the Evolution of the Semantic Web
+### Introduction: Navigating the Evolution of the Semantic Web
 
 In the vast realm of the World Wide Web, the Semantic Web emerges as a dynamic development, reshaping how information and services are perceived. At its core, the Semantic Web strives to imbue the web with semantics, enabling both people and machines to comprehend and fulfill requests seamlessly.
 
