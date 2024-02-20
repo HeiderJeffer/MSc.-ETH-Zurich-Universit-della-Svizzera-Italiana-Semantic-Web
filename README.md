@@ -1,21 +1,12 @@
 # ETH Zürich - UNIVERSITÀ DELLA SVIZZERA ITALIANA
+FACULTY OF COMPUTER SCIENCE -  Master in Artificial Intelligence - Topic: Semantic Web \[2014\]
 
-FACULTY OF COMPUTER SCIENCE
-
-Master in Artificial Intelligence
-
-Topic: Semantic Web \[2014\]
-
-By Heider Jeffer
-
-Instructor: Mehdi Jazayeri
-
-Assistant: Sasa Nesic
-
-speaker: Prof. Grigoris Anoniou
+- By Heider Jeffer
+- Instructor: Mehdi Jazayeri
+- Assistant: Sasa Nesic
+- speaker: Prof. Grigoris Anoniou
 
 # Unraveling the Semantic Web: A Comprehensive Exploration
-
 ## Introduction: Navigating the Evolution of the Semantic Web
 
 In the vast realm of the World Wide Web, the Semantic Web emerges as a
@@ -24,7 +15,7 @@ perceived. At its core, the Semantic Web strives to imbue the web with
 semantics, enabling both people and machines to comprehend and fulfill
 requests seamlessly.
 
-## The Semantic Web Framework: Principles, Collaboration, and Technologies
+# The Semantic Web Framework: Principles, Collaboration, and Technologies
 
 ## Design Principles and Collaborative Work
 
@@ -84,7 +75,7 @@ computer, emphasizing the necessity for more tailored solutions to
 effectively represent both human-readable documents and
 machine-processable data.
 
-# he Semantic Web's Language of Data: RDF, OWL, XML, and the Giant Global Graph
+# Semantic Web's Language of Data: RDF, OWL, XML, and the Giant Global Graph
 
 ##  Evolution Beyond HTML: RDF, OWL, and XML
 
