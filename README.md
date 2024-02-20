@@ -1,4 +1,4 @@
-# UNIVERSITÀ DELLA SVIZZERA ITALIANA
+# UNIVERSITÀ DELLA SVIZZERA ITALIANA - ETH ZURICH
 
 # FACULTY OF COMPUTER SCIENCE
 
@@ -14,138 +14,80 @@ Assistant: Sasa Nesic
 
 speaker: Prof. Grigoris Anoniou
 
-# Summary
+## Introduction: Navigating the Evolution of the Semantic Web
 
-The Semantic Web is an evolving development of the World Wide Web in
-which the meaning (semantics) of information and services on the web is
-defined, making it possible for the web to” understand” and satisfy the
-requests of people and machines to use the web content.
+In the vast realm of the World Wide Web, the Semantic Web emerges as a dynamic development, reshaping how information and services are perceived. At its core, the Semantic Web strives to imbue the web with semantics, enabling both people and machines to comprehend and fulfill requests seamlessly.
 
-the semantic web comprises a set of design principles, collaborative
-working groups, and a variety of enabling technologies, some elements of
-the semantic web are expressed as prospective future possibilities that
-are yet to be implemented or realized, and other elements of the
-semantic web are expressed in formal specifications, some of these
-include Resource Description Framework (RDF), a variety of data
-interchange formats (e.g. RDF/XML, N3, Turtle, N-Triples), and notations
-such as RDF Schema (RDFS) and the Web Ontology Language (OWL), all of
-which are intended to provide a formal description of concepts, terms,
-and relationships within a given knowledge domain.
+## The Semantic Web Framework: Principles, Collaboration, and Technologies
 
-Semantic publishing will benefit greatly from the semantic web. In
-particular, the semantic web is expected to revolutionize scientific
-publishing, such as real-time publishing and sharing of experimental
-data on the Internet. Humans are capable of using the Web to carry out
-tasks such as finding the Finnish word for ” monkey”, reserving a
-library book, and searching for a low price for a DVD. However, a
-computer cannot accomplish the same tasks without human direction
-because web pages are designed to be read by people, not machines. The
-semantic web is a vision of information that is understandable by
-computers so that they can perform more of the tedious work involved in
-finding, sharing, and combining information on the web. Semantic Web
-application areas are experiencing intensified interest due to the rapid
-growth in the use of the Web, together with the innovation and
-renovation of information content technologies.
+### Design Principles and Collaborative Work
 
-The Semantic Web is regarded as an integrator across different content
-and information applications and systems and provides mechanisms for the
-realization of Enterprise Information Systems. The rapidity of the
-growth experienced provides the impetus for researchers to focus on the
-creation and dissemination of innovative Semantic Web technologies,
-where the envisaged Semantic Web is long overdue. Often the terms
-Semantics, metadata, ontologies, and Semantic Web are used
-inconsistently. In particular, these terms are used as everyday
-terminology by researchers and practitioners, spanning a vast landscape
-of different fields, technologies, concepts, and application areas.
-Furthermore, there is confusion about the current status of the enabling
-technologies envisioned to realize the Semantic Web.
+The Semantic Web is not just a concept; it is a structured framework built upon design principles and collaborative efforts. Diving into the core, various working groups and enabling technologies form the backbone, with some aspects envisioning prospective possibilities yet to be realized.
 
-# Limitations of HTML
+### Technological Foundations: RDF, Data Interchange, and Notations
 
-Many files on a typical computer can be loosely divided into documents
-and data. Documents like mail messages, reports, and brochures are read
-by humans. Data, like calendars, address books, playlists, and
-spreadsheets are presented using an application program that lets them
-be viewed, searched, and combined in many ways.
+Within the Semantic Web, formal specifications play a pivotal role. Elements like Resource Description Framework (RDF), diverse data interchange formats (RDF/XML, N3, Turtle, N-Triples), RDF Schema (RDFS), and the Web Ontology Language (OWL) collectively provide a formal description, outlining concepts, terms, and relationships within defined knowledge domains.
 
-# Semantic Web solutions
+## Semantic Publishing: A Revolutionary Leap in Scientific Dissemination
 
-The Semantic Web takes the solution further. It involves publishing in
-languages specifically designed for data: Resource Description Framework
-(RDF). Web Ontology Language (OWL), and Extensible Markup Language
-(XML). HTML describes documents and the links between them. RDF, OWL,
-and XML, by contrast, can describe arbitrary things such as people,
-meetings, or airplane parts. Tim Berners-Lee calls the resulting network
-of Linked Data the Giant Global Graph, in contrast to the HTML-based
-World Wide Web.
+Semantic publishing stands as a testament to the profound impact the Semantic Web holds, particularly in the realm of scientific publishing. Real-time dissemination of experimental data on the internet promises a revolution, empowering the scientific community with unprecedented capabilities.
 
-These technologies are combined to provide descriptions that supplement
-or replace the content of Web documents. Thus, content may manifest
-itself as descriptive data stored in Web-accessible databases, or as
-markup within documents (particularly, in Extensible HTML (XHTML)
-interspersed with XML, or, more often, purely in XML, with layout or
-rendering cues stored separately). The machine-readable descriptions
-enable content managers to add meaning to the content, i.e., to describe
-the structure of the knowledge we have about that content. In this way,
-a machine can process knowledge itself, instead of text, using processes
-similar to human deductive reasoning and inference, thereby obtaining
-more meaningful results and helping computers to perform automated
-information gathering and research.
+## Bridging the Human-Computer Divide: Semantic Web's Vision
 
-# Relationship to object-oriented programming
+While humans effortlessly navigate the web, computers face challenges in understanding and executing tasks independently. The Semantic Web emerges as a visionary solution, aiming to make information comprehensible to machines. This vision includes automating tedious tasks like finding, sharing, and combining information, marking a paradigm shift in web interaction.
 
-Several authors highlight the similarities that the Semantic Web shares
-with object-oriented programming (OOP). Both the semantic web and
-object-oriented programming have classes with attributes and the concept
-of instances or objects. Linked Data uses Dereferenceable Uniform
-Resource Identifiers like the common programming concept of pointers or”
-object identifiers” in OOP. Dereferenceable URIs can thus be used to
-access” data by reference”. The Unified Modeling Language is designed to
-communicate about object-oriented systems, and can thus be used for both
-object-oriented programming and semantic web development.
+## Integration Across Applications: Semantic Web's Role in Enterprise Information Systems
 
-# Challenges
+The Semantic Web's prowess extends beyond individual tasks, positioning itself as an integrator across diverse content and information applications. It provides the mechanisms needed for the realization of Enterprise Information Systems, ushering in an era of interconnected and seamlessly functioning information ecosystems.
 
-Some of the challenges for the Semantic Web include vastness, vagueness,
-un- certainty, inconsistency, and deceit. Automated reasoning systems
-will have to deal with all of these issues to deliver on the promise of
-the Semantic Web.
+## Clarifying Terminological Confusion: Semantics, Metadata, Ontologies, and More
 
-## Vastness
+In the Semantic Web landscape, terms such as Semantics, metadata, ontologies, and Semantic Web are often used inconsistently. This article delves into the intricate web of terminology, unraveling the nuances and offering clarity across different fields, technologies, concepts, and application areas.
 
-The World Wide Web contains at least 48 billion pages as of this writing
-(August 2, 2009). The SNOMED CT medical terminology ontology contains
-370,000 class names, and existing technology has not yet been able to
-eliminate all semantically duplicated terms. Any automated reasoning
-system will have to deal with truly huge inputs.
+## HTML Limitations: Unveiling the Divide Between Documents and Data
 
-## Vagueness
+HTML, the traditional language of the web, has its limitations. This section explores the divide between documents and data on a typical computer, emphasizing the necessity for more tailored solutions to effectively represent both human-readable documents and machine-processable data.
 
-These are imprecise concepts like ”young” or ”tall”. This arises from
-the vagueness of user queries, of concepts represented by content
-providers, of matching query terms to provider terms, and of trying to
-combine different knowledge bases with overlapping but subtly different
-concepts. Fuzzy logic is the most common technique for dealing with
-vagueness.
+## The Semantic Web's Language of Data: RDF, OWL, XML, and the Giant Global Graph
 
-## Uncertainty
+### Evolution Beyond HTML: RDF, OWL, and XML
 
-These are precise concepts with uncertain values. For example, a patient
-might present a set of symptoms that correspond to several different
-distinct diagnoses each with a different probability. Probabilistic
-reasoning techniques are generally employed to address uncertainty.
+The Semantic Web takes a quantum leap beyond HTML by introducing languages explicitly designed for data: RDF, OWL, and XML. While HTML primarily describes documents and their links, RDF, OWL, and XML have the capability to describe arbitrary entities, fostering a new era of data-driven web architecture.
 
-## Inconsistency
+### Tim Berners-Lee's Vision: The Giant Global Graph
 
-These are logical contradictions that will inevitably arise during the
-development of large ontologies, and when ontologies from separate
-sources are combined. Deductive reasoning fails catastrophically when
-faced with inconsistency, because ”anything follows from a
-contradiction”. Defeasible reasoning and paraconsistent reasoning are
-two techniques that can be employed to deal with inconsistency.
+The resulting network of Linked Data, termed the Giant Global Graph by Tim Berners-Lee, stands in stark contrast to the HTML-based World Wide Web. This interconnected graph of data transcends traditional web structures, opening avenues for unprecedented data exploration and utilization.
 
-## Deceit
+### Transforming Content with Machine-Readable Descriptions
 
-This is when the producer of the information is intentionally misleading
-the consumer of the information. Cryptography techniques are currently
-utilized to alleviate this threat.
+These technologies synergize to provide machine-readable descriptions that supplement or replace traditional web document content. Descriptive data stored in web-accessible databases or markup within documents enables content managers to infuse meaning into the content, allowing machines to process knowledge akin to human deductive reasoning.
+
+## Semantic Web and Object-Oriented Programming: A Symbiotic Relationship
+
+Several authors draw parallels between the Semantic Web and object-oriented programming (OOP). Both share attributes, classes, instances, and the concept of a network of linked data using Dereferenceable Uniform Resource Identifiers, resembling the object identifiers in OOP.
+
+## Navigating the Challenges: Vastness, Vagueness, Uncertainty, Inconsistency, and Deceit
+
+### Vastness: A Web of 48 Billion Pages
+
+The sheer vastness of the World Wide Web, containing over 48 billion pages, poses a significant challenge. As of August 2, 2009, managing such immense inputs becomes a critical consideration for automated reasoning systems.
+
+### Vagueness: Navigating Imprecise Concepts
+
+Navigating imprecise concepts like "young" or "tall" becomes a challenge. The inherent vagueness in user queries, concepts represented by content providers, and the amalgamation of different knowledge bases necessitates the application of fuzzy logic as a common technique.
+
+### Uncertainty: Addressing Precise Concepts with Uncertain Values
+
+Dealing with precise concepts carrying uncertain values poses a challenge. For instance, a patient presenting symptoms corresponding to various distinct diagnoses requires the employment of probabilistic reasoning techniques to address uncertainty.
+
+### Inconsistency: The Logical Contradictions Challenge
+
+Inevitable logical contradictions emerge during the development of large ontologies and when merging ontologies from separate sources. Deductive reasoning faces challenges in such scenarios, calling for techniques like defeasible reasoning and paraconsistent reasoning to address inconsistency.
+
+### Deceit: Mitigating Intentional Misleading
+
+Dealing with intentional misinformation, or deceit, is a critical aspect of navigating the Semantic Web. Employing cryptography techniques becomes essential to alleviate the threat and ensure the integrity of information.
+
+## Conclusion: Charting the Future of the Semantic Web
+
+In conclusion, the Semantic Web stands as a transformative force, reshaping how we perceive and interact with information on the internet. Navigating its intricacies, addressing challenges, and embracing its potential heralds a future where the web becomes not just a repository of data but a dynamic and interconnected knowledge ecosystem.
