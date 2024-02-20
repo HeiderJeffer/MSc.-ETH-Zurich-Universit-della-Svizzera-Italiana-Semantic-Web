@@ -1,11 +1,4 @@
-<img src="./images/media/image1.jpeg"
-style="width:4.26389in;height:1.12728in"
-alt="A black letter on a white background" />
-<img src="./images/media/image2.png"
-style="width:2.56175in;height:1.77083in"
-alt="A black background with a black square Description automatically generated with medium confidence" />
-
-**ETH Zürich - UNIVERSITÀ DELLA SVIZZERA ITALIANA**
+# ETH Zürich - UNIVERSITÀ DELLA SVIZZERA ITALIANA
 
 FACULTY OF COMPUTER SCIENCE
 
