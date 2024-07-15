@@ -4,7 +4,7 @@
 
 **Thesis: Unraveling the Semantic Web: A Comprehensive Exploration**
 
-**Student: Heider Jeffer**
+**Developer: Heider Jeffer**
 
 **Instructor: Prof. Mehdi Jazayeri**
 
