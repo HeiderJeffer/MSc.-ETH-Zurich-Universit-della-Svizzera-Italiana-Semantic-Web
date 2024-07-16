@@ -1,4 +1,9 @@
-**MSc. ETH Zürich - Università della Svizzera Italiana**
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/MSc.-ETH-Zurich-Universit-della-Svizzera-Italiana-Semantic-Web" alt = "Visitors-Counter"/>
+</body>
+
+
+**ETH Zürich - Università della Svizzera Italiana**
 
 **Faculty of Computer Science - Master in Artificial Intelligence**
 
